@@ -1,7 +1,4 @@
 class Sort {
- constructor(){
-
- }
  selection(arr) { 
   let arrLength = arr.length;
   for(let i = 0; i < arrLength - 1; i++) {
